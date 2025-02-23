@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cbb4fb18785939c0",
+        "id": "a37892ddd09b2245",
         "type": "tabs",
         "children": [
           {
-            "id": "f5434c29744f59ce",
+            "id": "015c1dadc10af9ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - General Skills/06 - fixme2.py.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06 - fixme2.py"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,35 +164,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5434c29744f59ce",
+  "active": "015c1dadc10af9ef",
   "lastOpenFiles": [
+    "Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "Tarea 1 - General Skills/09 - binhexa.md",
+    "01 - General Skills/02 - 2Warm.md",
+    "02 - General Skills/01 - Based.md",
+    "Tarea 1 - General Skills/08 - Binary Search.md",
+    "Tarea 1 - General Skills/07 - Collaborative Development.md",
+    "Tarea 1 - General Skills/06 - Blame Game.md",
+    "Tarea 1 - General Skills/05 - Time Machine.md",
+    "Tarea 1 - General Skills/04 - Commitment Issues.md",
+    "Untitled.md",
+    "Tarea 1 - General Skills/03 - Special.md",
+    "Tarea 1 - General Skills/02 - chrono.md",
+    "Tarea 1 - General Skills/01 - permissions.md",
+    "03 - General Skills/06 - fixme2.py.md",
+    "Tarea 1 - General Skills",
     "03 - General Skills/08 - PW Crack 2.md",
     "03 - General Skills/07 - PW Crack 1.md",
-    "03 - General Skills/06 - fixme2.py.md",
     "03 - General Skills/05 - fixme1.py.md",
     "03 - General Skills/04 - convertme.py.md",
     "03 - General Skills/10 - Serpentine.md",
     "03 - General Skills/09 - PW Crack 3.md",
     "03 - General Skills/03 - Codebook.md",
-    "01 - General Skills/02 - 2Warm.md",
-    "02 - General Skills/01 - Based.md",
     "03 - General Skills/02 - runme.py.md",
     "03 - General Skills/01 - Super SSH.md",
     "02 - General Skills/10 - First Find.md",
     "03 - General Skills",
     "02 - General Skills/09 - Big Zip.md",
     "02 - General Skills/08 - repetitions.md",
-    "02 - General Skills/07 - Magikarp Ground Mission.md",
-    "02 - General Skills/06 - Tab, Tab, Attack.md",
-    "02 - General Skills/05 - useless.md",
-    "02 - General Skills/04 - Static ain't always noise.md",
-    "02 - General Skills/02 - strings it.md",
-    "02 - General Skills/03 - Wave a flag.md",
-    "Untitled.md",
-    "01 - General Skills/01 - Lets Warm Up.md",
-    "01 - General Skills/07 - what's a net cat?.md",
-    "01 - General Skills/09 - Glitch Cat.md",
-    "01 - General Skills/10 - Nice netcat....md",
     "02 - General Skills",
     "01 - General Skills"
   ]
