@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a37892ddd09b2245",
+        "id": "1ae51f07f18ea538",
         "type": "tabs",
         "children": [
           {
-            "id": "015c1dadc10af9ef",
+            "id": "280e100420da3e9b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bina",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,36 +164,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "015c1dadc10af9ef",
+  "active": "baca438f543ad45e",
   "lastOpenFiles": [
-    "Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "Actividad 08 - picoCTF Web 1/picobrowser.md",
+    "Actividad 08 - picoCTF Web 1/Client-side-again.md",
+    "Actividad 08 - picoCTF Web 1/dont-use-client-side.md",
+    "Actividad 08 - picoCTF Web 1/logon.md",
+    "Actividad 08 - picoCTF Web 1/where are the robots.md",
+    "Actividad 08 - picoCTF Web 1/Insp3ct0r.md",
+    "01 - General Skills/08 - plumbing.md",
+    "Actividad 08 - picoCTF Web 1",
     "Tarea 1 - General Skills/09 - binhexa.md",
+    "prueba.txt",
+    "Tarea 1 - General Skills/08 - Binary Search.md",
+    "PicoCTF 2025/RED.md",
+    "PicoCTF 2025/Ph4nt0m 1ntrud3r.md",
+    "PicoCTF 2025/Ph.md",
+    "PicoCTF 2025/n0s4n1ty 1.md",
+    "PicoCTF 2025/Cookie Monster.md",
+    "Untitled.md",
+    "PicoCTF 2025",
+    "Tarea 1 - General Skills/10 - ASCII Numbers.md",
     "01 - General Skills/02 - 2Warm.md",
     "02 - General Skills/01 - Based.md",
-    "Tarea 1 - General Skills/08 - Binary Search.md",
     "Tarea 1 - General Skills/07 - Collaborative Development.md",
     "Tarea 1 - General Skills/06 - Blame Game.md",
     "Tarea 1 - General Skills/05 - Time Machine.md",
     "Tarea 1 - General Skills/04 - Commitment Issues.md",
-    "Untitled.md",
     "Tarea 1 - General Skills/03 - Special.md",
     "Tarea 1 - General Skills/02 - chrono.md",
     "Tarea 1 - General Skills/01 - permissions.md",
     "03 - General Skills/06 - fixme2.py.md",
     "Tarea 1 - General Skills",
-    "03 - General Skills/08 - PW Crack 2.md",
-    "03 - General Skills/07 - PW Crack 1.md",
-    "03 - General Skills/05 - fixme1.py.md",
-    "03 - General Skills/04 - convertme.py.md",
-    "03 - General Skills/10 - Serpentine.md",
-    "03 - General Skills/09 - PW Crack 3.md",
-    "03 - General Skills/03 - Codebook.md",
-    "03 - General Skills/02 - runme.py.md",
-    "03 - General Skills/01 - Super SSH.md",
-    "02 - General Skills/10 - First Find.md",
     "03 - General Skills",
-    "02 - General Skills/09 - Big Zip.md",
-    "02 - General Skills/08 - repetitions.md",
     "02 - General Skills",
     "01 - General Skills"
   ]
