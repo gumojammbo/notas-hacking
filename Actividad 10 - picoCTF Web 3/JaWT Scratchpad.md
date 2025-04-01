@@ -32,7 +32,7 @@ Session completed. picoCTF{jawt_was_just_what_you_thought_44c752f5}
 
 ```
 6. Vemos que la contrasena es `ilovepico`
-7. La ingresamos en jwt.io, junto con el user "admin".
+7. La ingresamos en jwt.io, junto con el user "admin".q
 8. `picoCTF{jawt_was_just_what_you_thought_44c752f5}`
 ``
 ## Notas adicionales
