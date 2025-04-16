@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic 2/05 - shark on wire 2.md",
+                "file": "Primer Parcial - Parte 1 - General Skills/Specialer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - shark on wire 2"
+              "title": "Specialer"
             }
           }
         ]
@@ -170,11 +170,26 @@
   },
   "active": "738ca132537320d0",
   "lastOpenFiles": [
+    "Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
+    "Primer Parcial - Parte 1 - General Skills/Specialer.md",
+    "Primer Parcial - Parte 1 - General Skills/flag_shop.md",
+    "Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
+    "Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
+    "Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
+    "Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
+    "Primer Parcial - Parte 1 - General Skills/Rust fixme3.md",
+    "Primer Parcial - Parte 1 - General Skills/Rust fixme2.md",
+    "Primer Parcial - Parte 1 - General Skills/Rust fixme1.md",
+    "PicoCTF 2025/RED.md",
+    "Primer Parcial - Parte 1 - General Skills",
+    "PicoCTF 2025/Ph4nt0m 1ntrud3r.md",
+    "PicoCTF 2025/n0s4n1ty 1.md",
+    "PicoCTF 2025/Cookie Monster.md",
+    "Forensic 2/05 - shark on wire 2.md",
     "Forensic 2/04 - like1000.md",
     "Forensic 2/03 - c0rrupt.md",
     "Forensic 2/02 - WhitePages.md",
     "Forensic 2/01 - m00nwalk.md",
-    "Forensic 2/05 - shark on wire 2.md",
     "Untitled.md",
     "Forensic 2",
     "Tarea 2 - Retos Web/10 - WebDecode.md",
@@ -183,28 +198,13 @@
     "Tarea 2 - Retos Web/07 - Secrets.md",
     "Tarea 2 - Retos Web/06 - Roboto Sans.md",
     "Tarea 2 - Retos Web/05 - Power Cookie.md",
-    "Tarea 2 - Retos Web/04 - Local Authority.md",
-    "Tarea 2 - Retos Web/03 - IntroToBurp.md",
-    "Tarea 2 - Retos Web/02 - Inspect HTML.md",
-    "Tarea 2 - Retos Web/01 - Includes.md",
-    "Actividad 11 - picoCTF Web 4/02 - Most Cookies.md",
     "Tarea 2 - Retos Web",
-    "Actividad 11 - picoCTF Web 4/03 - SOAP.md",
-    "Actividad 10 - picoCTF Web 3/More SQLi.md",
-    "Actividad 11 - picoCTF Web 4/04 - Trickster.md",
-    "Actividad 11 - picoCTF Web 4/01 - MatchTheRegex.md",
-    "Tarea 1 - General Skills/01 - permissions.md",
-    "Untitled 1.md",
     "Actividad 11 - picoCTF Web 4",
-    "Forensic/What Lies Within.md",
-    "Forensic/extensions.md",
-    "Forensic/Glory of the Garden.md",
     "Forensic",
     "Actividad 10 - picoCTF Web 3",
     "Actividad 09 - picoCTF Web 2",
     "Actividad 08 - picoCTF Web 1",
     "prueba.txt",
-    "PicoCTF 2025",
-    "Tarea 1 - General Skills"
+    "PicoCTF 2025"
   ]
 }
