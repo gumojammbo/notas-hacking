@@ -11,10 +11,14 @@
             "id": "c0a70733db69bb90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 3 - Forensic/St3g0.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "St3g0"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c9f1b446a6c3abad",
@@ -167,6 +170,19 @@
   },
   "active": "c0a70733db69bb90",
   "lastOpenFiles": [
+    "Tarea 3 - Forensic/RED.md",
+    "Tarea 3 - Forensic/St3g0.md",
+    "Tarea 3 - Forensic/Redaction gone wrong.md",
+    "Tarea 3 - Forensic/hideme.md",
+    "Tarea 3 - Forensic/flags are stepic.md",
+    "Tarea 3 - Forensic/Secret of the Polyglot.md",
+    "Tarea 3 - Forensic/Scan Suprise.md",
+    "Tarea 3 - Forensic/information.md",
+    "Tarea 3 - Forensic/CanYouSee.md",
+    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "Untitled.md",
+    "Tarea 3 - Forensic",
+    "Untitled",
     "Forensics 4/06 - Operation Oni.md",
     "Forensics 4/05 - Operation Orchid.md",
     "Forensics 4/04 - Sleuthkit Apprentice.md",
@@ -184,24 +200,11 @@
     "Primer Parcial - Parte 2 - Web/SSTI2.md",
     "Primer Parcial - Parte 2 - Web/SSTI1.md",
     "Primer Parcial - Parte 2 - Web/SQL Direct.md",
-    "Primer Parcial - Parte 2 - Web/Java Code Analysis!?!.md",
-    "Primer Parcial - Parte 2 - Web/findme.md",
-    "Primer Parcial - Parte 2 - Web/head-dump.md",
-    "Primer Parcial - Parte 2 - Web/Bookmarklet.md",
-    "Primer Parcial - Parte 2 - Web/n0s4n1ty.md",
-    "Primer Parcial - Parte 2 - Web/Cookie Monster.md",
-    "Primer Parcial - Parte 2 - Web/SansAlpha 1.md",
-    "Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "Primer Parcial - Parte 2 - Web",
-    "Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
-    "Primer Parcial - Parte 1 - General Skills/flag_shop.md",
-    "Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
     "Primer Parcial - Parte 1 - General Skills",
     "Forensic 2",
     "Tarea 2 - Retos Web",
     "Actividad 11 - picoCTF Web 4",
-    "Forensic",
-    "Actividad 10 - picoCTF Web 3",
-    "Actividad 09 - picoCTF Web 2"
+    "Forensic"
   ]
 }
